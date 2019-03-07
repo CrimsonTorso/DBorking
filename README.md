@@ -10,6 +10,12 @@ A lazy, small alternative to manual Google Dorking.
 # About
 This tool is in an early BETA. I'm planning to expand further, as I'm doing college work a lot. This tool can be used to hack into websites illegally. You have been warned. There are currently only 3 Google Dorks on here. However, I do plan to add a lot more to this tool.
 
+# Downloading
+
+```
+$ cd ~ && git clone https://github.com/CrimsonTorso/DBorking && cd DBorking
+```
+
 # Usage
 
 ```
@@ -18,6 +24,6 @@ $ python dborking.py
 
 # Author
 
-(Github)[https://github.com/CrimsonTorso]
-(Codepen)[https://codepen.io/CrimsonTorso]
-(Exploit-DB)[https://www.exploit-db.com/?author=9544]
+[Github](https://github.com/CrimsonTorso)
+[Codepen](https://codepen.io/CrimsonTorso)
+[Exploit-DB](https://www.exploit-db.com/?author=9544)
