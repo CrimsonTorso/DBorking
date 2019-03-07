@@ -24,6 +24,6 @@ $ python dborking.py
 
 # Author
 
-[Github](https://github.com/CrimsonTorso)
-[Codepen](https://codepen.io/CrimsonTorso)
-[Exploit-DB](https://www.exploit-db.com/?author=9544)
+*[Github](https://github.com/CrimsonTorso)
+*[Codepen](https://codepen.io/CrimsonTorso)
+*[Exploit-DB](https://www.exploit-db.com/?author=9544)
